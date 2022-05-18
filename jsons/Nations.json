@@ -5,7 +5,6 @@
 		"adjective": ["Ziandestrians"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
-		"favoredReligion": "Judaism",
 		
 		"startIntroPart1": "Hailing from Ziandestria, A nation realm with its advance foundations. You O' president, must lead people to the future with science. Remember that the past builds the future.",
 		"startIntroPart2": "For science and love, make haste Man of Discovery. Fulfill!",					
@@ -398,7 +397,7 @@
 		"uniqueName": "Salumi Feminsvvine Love",
 		"uniques": ["Starts with [Masonry]"],
 
-		"cities": ["Sengtek-Xivesotte","Na-Ur","Harim Ar"]
+		"cities": ["Sengtek-Xivesotte","Na Ur","Harim Ar"]
 	},
 	{
 		"name": "Magroonaguio",
@@ -422,9 +421,8 @@
 		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Feddfminine Love",
-		"uniques": ["Cannot build [Settler] units","[+30]% Strength for cities <when attacking>","[+30]% Strength <vs [Barbarian] units>",
-			    "Receive a free [Great General] when you discover [Horseback Riding]","New [All] units start with [50] Experience",
-			    "[All] units deal +[20]% damage","\"Borrows\" city names from other civilizations in the game"],
+		"uniques": ["Cannot build [Settler] units",
+			    "Receive a free [Great General] when you discover [Horseback Riding]","New [All] units start with [50] Experience"],
 
 		"cities": ["Magroonaguio"]
 	}
