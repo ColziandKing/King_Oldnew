@@ -258,7 +258,7 @@
 		"hateHello": "Assh, what do you want?",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [],
+	        "outerColor": [0,0,0],
 		"innerColor": [0,0,255],
 
 		"uniqueName": "Salumi Femfinine Love",
