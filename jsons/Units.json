@@ -1,3 +1,38 @@
 [
+	{
+		"name": "King Colziand",
+		"uniqueTo": "Colziand"
+		"unitType": "Sword",
+		"movement": 3,
+		"strength": 80,
+		"interceptRange": 2,
+		"uniques": ["Unbuildable","May capture killed [Infantry] units <with [75]% chance>",
+	        "May capture killed [Armor] units <with [75]% chance>","[+20]% Strength <vs [Infantry] units>","[+20]% Strength <vs [Armor] units> <when attacking>",
+	        "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
+		"requiredTech": "Steel",
+		"promotions": ["Great Generals II","March","Blitz"],
+		"attackSound": "lshit"
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
+				"imageSize": 256 }]
+	},
+{
+		"name": "Knivex",
+		"uniqueTo": "Colziand"
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 60,
+		"interceptRange": 1,
+		"uniques": ["Unbuildable","Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
+	
+		"requiredTech": "Chivalry",
+		"promotions": ["Great Generals I","Besiege","Blitz"],
+		"attackSound": "lshit"
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
+				"imageSize": 256 }]
+	}
 	]
