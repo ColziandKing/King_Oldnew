@@ -4393,14 +4393,14 @@ UnitIcons/Knight
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Knight of Ren
+UnitIcons/Edmund Blackadder
   rotate: false
   xy: 220, 1288
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sith Assassin
+UnitIcons/Baldrick
   rotate: false
   xy: 220, 1288
   size: 100, 100
