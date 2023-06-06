@@ -1,17 +1,10 @@
 # soed
-Oldnew era units unciv
-12 all civs, 6 each
+Oldnew unciv
+5 all civs
 
-Babylon
-Egypt
-Rome
-Greece
-China
-India
+Colziand
 
-England
-France
-Russia
-America
-Ottomans
-Spain
+
+
+Theapetra, Jebellaz
+Hermione
