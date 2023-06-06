@@ -4071,7 +4071,7 @@ UnitIcons/Kylo Ren
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Luke Skywalker
+UnitIcons/King Colziand
   rotate: false
   xy: 1624, 1640
   size: 100, 100
@@ -4379,7 +4379,7 @@ UnitIcons/Inquisitor
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Jedi Commander
+UnitIcons/Knivex
   rotate: false
   xy: 220, 1288
   size: 100, 100
