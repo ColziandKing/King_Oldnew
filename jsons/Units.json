@@ -11,7 +11,7 @@
 	        "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
 		"requiredTech": "Steel",
-		"promotions": ["Great Generals II","March","Blitz"],
+		"promotions": ["Great Generals II","March","Ambush I"],
 		"attackSound": "lshit"
 		"civilopediaText": [
 			{
