@@ -27,7 +27,7 @@
 		"interceptRange": 1,
 		"uniques": ["Unbuildable","Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
-		"requiredTech": "Chivalry",
+		"requiredTech": "Steel",
 		"promotions": ["Great Generals I","Medic","Cover I"],
 		"attackSound": "lshit"
 		"civilopediaText": [
