@@ -28,7 +28,53 @@
 		"uniques": ["Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
 		"requiredTech": "Steel",
-		"promotions": ["Great Generals I","Medic","Cover I"],
+		"promotions": ["Drill III","Formation II","Cover II"],
+		"attackSound": "lshit"
+		"civilopediaText": [
+			{
+				"extraImage": "TileSets/FantasyHex/Units/Darth Vader",
+				"imageSize": 256 }]
+	},
+{
+		"name": "Pillager",
+		"unitType": "Archery",
+		"uniqueTo": "Barbarians",
+		"movement": 3,
+		"strength": 14,
+		"rangedStrength": 15,
+		"replaces": "Crossbowman",
+		"cost": 120,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Gatling Gun",
+		"obsoleteTech": "Industrialization",
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Vindicator",
+		"unitType": "Sword",
+		"replaces": "Berserker",
+		"uniqueTo": "Barbarians",
+		"movement": 3,
+		"strength": 22,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+{
+		"name": "Royalloom Kingsman",
+		"rangedStrength": 50,
+		"unitType": "Archery",
+		"movement": 4,
+		"strength": 50,
+		"interceptRange": 3,
+		"uniques": ["Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
+	
+		"requiredTech": "Education",
+		"promotions": ["Great Generals I","Logistics","Cover I"],
 		"attackSound": "lshit"
 		"civilopediaText": [
 			{
