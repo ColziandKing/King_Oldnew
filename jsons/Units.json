@@ -6,7 +6,7 @@
 		"movement": 3,
 		"strength": 80,
 		"interceptRange": 2,
-		"uniques": ["Unbuildable","May capture killed [Infantry] units <with [75]% chance>",
+		"uniques": ["May capture killed [Infantry] units <with [75]% chance>",
 	        "May capture killed [Armor] units <with [75]% chance>","[+20]% Strength <vs [Infantry] units>","[+20]% Strength <vs [Armor] units> <when attacking>",
 	        "Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
@@ -25,7 +25,7 @@
 		"movement": 2,
 		"strength": 60,
 		"interceptRange": 1,
-		"uniques": ["Unbuildable","Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
+		"uniques": ["Can be purchased with [Faith] [in all cities in which the majority religion is an enhanced religion]"]
 	
 		"requiredTech": "Steel",
 		"promotions": ["Great Generals I","Medic","Cover I"],
